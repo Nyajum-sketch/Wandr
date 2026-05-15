@@ -1,4 +1,4 @@
-## Wandr
+## Wandr - https://alamelu08.github.io/Wandr/
 
 Wandr is a mobility data collection application developed for Kerala’s transportation planning and research. The platform allows participants to record and manage their daily travel information while enabling researchers and administrators to analyze aggregated travel patterns securely and efficiently.
 
@@ -34,7 +34,7 @@ Frontend: React, TypeScript, Tailwind CSS
 
 Backend: Node.js / Express.js
 
-Database: PostgreSQL
+Database: JSON file(persists here)
 
 Authentication: Role-based authentication system
 
