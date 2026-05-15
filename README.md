@@ -34,7 +34,7 @@ Frontend: React, TypeScript, Tailwind CSS
 
 Backend: Node.js / Express.js
 
-Database: JSON file(persists here)
+Database: postgreSQL
 
 Authentication: Role-based authentication system
 
